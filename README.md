@@ -5,7 +5,7 @@
 - Встановіть програму, слідуючи інструкціям на екрані.
   
 #### 2. Встановлення додатку "Ebook Translator"
-- Перейдіть на сайт [додатка](https://translator.bookfere.com/) і завантажте версію Rolling Release.
+- Перейдіть на сайт [додатка](https://translator.bookfere.com/) і завантажте Rolling Release версію.
 
 <img src="https://github.com/user-attachments/assets/65262346-f107-48b3-9dfd-1fc6f90faf36" width="800">
 

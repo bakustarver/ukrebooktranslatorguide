@@ -33,8 +33,7 @@
 - У меню Calibre натисніть на "Налаштування" (Settings).
 <img src="https://github.com/user-attachments/assets/3ba5fd5f-a37c-4e6f-902b-491e8c05e46d" width="800">
 
-- Виберіть ""Панель інстру![99](https://github.com/user-attachments/assets/86a63d1a-8d94-40d2-8de6-7caa91f26c4b)
-ментів і меню" (Toolbar).
+- Виберіть ""Панель інструментів і меню" (Toolbar).
 
 <img src="https://github.com/user-attachments/assets/4f05bf5f-a0d0-46f9-980c-c0ae07b47404" width="800">
 

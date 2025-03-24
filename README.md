@@ -18,7 +18,7 @@
 
 <img src="https://github.com/user-attachments/assets/498ed629-c1cc-4a93-90d6-11e4db1cea12" width="800">
 
-- У вікні додатків натисніть на "Отримати нові додатки" (Get new plugins).
+- У вікні додатків натисніть на "Завантажити додаток з файла".
 
 <img src="https://github.com/user-attachments/assets/2b5d1e46-6446-4954-b1e5-e484db651228" width="800">
 

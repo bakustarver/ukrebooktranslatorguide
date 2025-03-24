@@ -1,10 +1,12 @@
 # Керівництво для перекладу книжки з будь-якої мови на українську за допомогою Calibre та плагіна Ebook Translator:
 
-#### 1. Скачати Calibre для Windows
+#### 1. Завантаження Calibre для Windows
 - Перейдіть на офіційний сайт [Calibre](https://calibre-ebook.com/download) і завантажте версію для [Windows](https://calibre-ebook.com/dist/win64).
 - Встановіть програму, слідуючи інструкціям на екрані.
-
+  
 #### 2. Встановлення додатку "Ebook Translator"
+- Перейдіть на сайт [Calibre](https://calibre-ebook.com/download) і завантажте версію Rolling Release.
+<img src="https://github.com/user-attachments/assets/65262346-f107-48b3-9dfd-1fc6f90faf36" width="800">
 - Відкрийте Calibre.
 - Перейдіть до меню "Налаштування" (Settings) у верхньому правому куті.
 
@@ -26,7 +28,7 @@
 
 - Після встановлення перезапустіть Calibre.
 
-#### 4. Додати іконку "Translate book" для швидкого перекладу
+#### 3. Додати значок "Translate book" для швидкого перекладу
 - У меню Calibre натисніть на "Налаштування" (Settings).
 <img src="https://github.com/user-attachments/assets/3ba5fd5f-a37c-4e6f-902b-491e8c05e46d" width="800">
 

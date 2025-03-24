@@ -20,13 +20,12 @@
 
 - У вікні додатків натисніть на "Отримати нові додатки" (Get new plugins).
 
-<img src="https://github.com/user-attachments/assets/22132c90-1f60-4f5a-800a-175dd19fc26d" width="800">
+<img src="https://github.com/user-attachments/assets/2b5d1e46-6446-4954-b1e5-e484db651228" width="800">
 
 
-- У списку знайдіть плагін "Ebook Translator" і натисніть "Встановити".
+- Знайдіть завантаженний плагін "Ebook Translator" і натисніть "Встановити".
 
-<img src="https://github.com/user-attachments/assets/6c7b4c5a-aad5-43cf-9c4b-89d09f24a646" width="800">
-
+<img src="https://github.com/user-attachments/assets/d2919388-ffd1-4a66-a81e-d2f99ad785d5" width="800">
 
 - Після встановлення перезапустіть Calibre.
 
@@ -34,7 +33,8 @@
 - У меню Calibre натисніть на "Налаштування" (Settings).
 <img src="https://github.com/user-attachments/assets/3ba5fd5f-a37c-4e6f-902b-491e8c05e46d" width="800">
 
-- Виберіть ""Панель інструментів і меню" (Toolbar).
+- Виберіть ""Панель інстру![99](https://github.com/user-attachments/assets/86a63d1a-8d94-40d2-8de6-7caa91f26c4b)
+ментів і меню" (Toolbar).
 
 <img src="https://github.com/user-attachments/assets/4f05bf5f-a0d0-46f9-980c-c0ae07b47404" width="800">
 

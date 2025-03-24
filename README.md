@@ -14,7 +14,7 @@
 
 <img src="https://github.com/user-attachments/assets/3ba5fd5f-a37c-4e6f-902b-491e8c05e46d" width="800">
 
-- Натисніть значок «Додадки».
+- Натисніть значок «Додатки».
 
 <img src="https://github.com/user-attachments/assets/498ed629-c1cc-4a93-90d6-11e4db1cea12" width="800">
 

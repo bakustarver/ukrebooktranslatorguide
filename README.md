@@ -26,7 +26,7 @@
 
 - Після встановлення перезапустіть Calibre.
 
-#### 4. Додати іконку "Translate" для швидкого перекладу
+#### 4. Додати іконку "Translate book" для швидкого перекладу
 - У меню Calibre натисніть на "Налаштування" (Settings).
 <img src="https://github.com/user-attachments/assets/3ba5fd5f-a37c-4e6f-902b-491e8c05e46d" width="800">
 

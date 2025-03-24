@@ -25,3 +25,19 @@
 
 
 - Після встановлення перезапустіть Calibre.
+
+#### 4. Додати іконку "Translate" для швидкого перекладу
+- У меню Calibre натисніть на "Налаштування" (Settings).
+<img src="https://github.com/user-attachments/assets/3ba5fd5f-a37c-4e6f-902b-491e8c05e46d" width="800">
+
+- Виберіть ""Панель інструментів і меню" (Toolbar).
+
+<img src="https://github.com/user-attachments/assets/4f05bf5f-a0d0-46f9-980c-c0ae07b47404" width="800">
+
+- Виберіть "Основна панель інструментів" (Main Toolbar).
+- Натисніть на стрілку вгору, щоб перетягнути меню.
+- Збережіть зміни.
+<img src="https://github.com/user-attachments/assets/c78529d0-b9f3-4b07-acf5-67d7b118bfa4" width="800">
+
+- Тепер ви бачите іконку для перекладу книжок на панелі інструментів.
+<img src="https://github.com/user-attachments/assets/3957378d-f78d-4c12-ad1d-02b489ef0c1b" width="800">

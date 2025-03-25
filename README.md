@@ -33,7 +33,7 @@
 - У меню Calibre натисніть на "Налаштування" (Settings).
 <img src="https://github.com/user-attachments/assets/3ba5fd5f-a37c-4e6f-902b-491e8c05e46d" width="800">
 
-- Виберіть ""Панель інструментів і меню" (Toolbar).
+- Виберіть "Панель інструментів і меню" (Toolbar).
 
 <img src="https://github.com/user-attachments/assets/4f05bf5f-a0d0-46f9-980c-c0ae07b47404" width="800">
 
@@ -44,3 +44,19 @@
 
 - Тепер ви бачите іконку для перекладу книжок на панелі інструментів.
 <img src="https://github.com/user-attachments/assets/3957378d-f78d-4c12-ad1d-02b489ef0c1b" width="800">
+
+
+
+#### 4. Переклад книжки
+- Виберіть "Додати книги"
+
+<img src="https://github.com/user-attachments/assets/e34c36ae-a502-4596-a6e8-c50da9ea130a" width="800">
+
+- Додайте книжку, яку ви хочете перекласти, до бібліотеки Calibre в провіднику Windows.
+
+- У контекстному меню виберіть "Translate Book" яке з'явилося завдяки додатку.
+
+<img src="https://github.com/user-attachments/assets/8d4a1f72-748b-48e7-a98b-55d7fd2e487f" width="800">
+
+
+

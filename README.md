@@ -54,6 +54,9 @@
 
 - Додайте книжку, яку ви хочете перекласти, до бібліотеки Calibre в провіднику Windows.
 
+<img src="https://github.com/user-attachments/assets/407f42c1-413a-4c86-a380-47b8437c48f6" width="800">
+
+
 - У контекстному меню виберіть "Translate Book" яке з'явилося завдяки додатку.
 
 <img src="https://github.com/user-attachments/assets/8d4a1f72-748b-48e7-a98b-55d7fd2e487f" width="800">

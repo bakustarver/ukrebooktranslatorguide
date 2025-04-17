@@ -1,4 +1,4 @@
-# Керівництво для перекладу книжки з будь-якої мови на українську за допомогою Calibre та плагіна Ebook Translator:
+# Інструкція для перекладу книжки з будь-якої мови на українську за допомогою Calibre та плагіна Ebook Translator:
 
 #### 1. Завантаження Calibre для Windows
 - Перейдіть на офіційний сайт [Calibre](https://calibre-ebook.com/download) і завантажте версію для [Windows](https://calibre-ebook.com/dist/win64).
